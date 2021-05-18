@@ -7,7 +7,7 @@ do
 		x="$l1$l2"
 		echo "Accessing https://en.wikipedia.org/wiki/$x.html..."
 		wget https://en.wikipedia.org/wiki/"$x" -O "Bash$x".html
-		lynx -dump –nolist "Bash$x".html >> BashTextFile.txt
+		lynx -dump â€“nolist "Bash$x".html >> BashTextFile.txt
         done
 done
 echo "Created text file"
