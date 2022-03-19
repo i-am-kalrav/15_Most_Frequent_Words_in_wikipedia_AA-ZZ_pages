@@ -1,2 +1,2 @@
-# 15_Most_Frequent_Words_in_wikipedia_AA-ZZ_pages
+# 15 Most Frequent Words in wikipedia AA-ZZ pages using webscraping
 ![Output](/31475894_1_1.jpg)
